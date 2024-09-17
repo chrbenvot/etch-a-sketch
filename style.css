@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    height:100vh;
+    flex-wrap: wrap;
+    width:100%;
+    
+}
+
+button{
+    margin:auto;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+}
